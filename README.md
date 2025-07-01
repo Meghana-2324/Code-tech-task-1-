@@ -17,7 +17,6 @@ CIRCUIT DIAGRAM:
 ![file_00000000e9cc622fbb7281ff79c66694](https://github.com/user-attachments/assets/006ea90e-17ca-4084-ab90-83c0447223cd)
 
 CODE:
-CODE:
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
